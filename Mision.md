@@ -1,16 +1,5 @@
-## Pasos para la instalacion
+#Misiones
 
-Ejecutar 
-
-``
-npm install
-``
-
-## Por Omitir
-
-Debemos de omitir estos archivos y carpetas
-
-node_modules
-.log
-.properties
-../s
+1. Ir por un cafe
+2. Salvar el planeta
+3. Gobernar un pais
