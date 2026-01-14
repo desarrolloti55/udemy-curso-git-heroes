@@ -1,16 +1,3 @@
-## Pasos para la instalacion
+## Motivo
 
-Ejecutar 
-
-``
-npm install
-``
-
-## Por Omitir
-
-Debemos de omitir estos archivos y carpetas
-
-node_modules
-.log
-.properties
-../s
+Este repositorio sirve para probar cosas.
