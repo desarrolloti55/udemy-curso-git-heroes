@@ -1,4 +1,4 @@
-## Heroes
+# Heroes
 * Superman
 * Batman
 * Flash
