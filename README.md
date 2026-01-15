@@ -1,3 +1,3 @@
-## Motivo
+# Notas
 
-Este repositorio sirve para probar cosas.
+Este proyecto gestiona las actividades de los heroes.
