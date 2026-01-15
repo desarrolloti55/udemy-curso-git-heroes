@@ -4,3 +4,4 @@
 * Flash
 * Wonderwoman
 * Spiderman
+* Chico bestia
