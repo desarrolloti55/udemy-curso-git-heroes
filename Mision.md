@@ -4,4 +4,4 @@
 2. Salvar el planeta
 3. Gobernar un pais muy pobre
 4. Zacar a pasear a las super mascotas
-5. Gobernar un pais
+6. Investigar como trabaja el enemigo
