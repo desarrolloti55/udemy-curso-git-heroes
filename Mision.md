@@ -5,3 +5,4 @@
 3. Gobernar un pais muy pobre
 4. Zacar a pasear a las super mascotas
 6. Investigar como trabaja el enemigo
+7. Mojar el sol
