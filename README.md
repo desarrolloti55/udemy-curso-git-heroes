@@ -6,6 +6,9 @@ Esto es un texto que puede bien ser una historia, una descripcion, un articulo o
 
 ## Notas
 
+Curso para aprender a usar git y github.
+
+## README
 Un README puede mostrar informacion de cosas chidas como estas:
 
 # h1
