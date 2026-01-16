@@ -5,3 +5,5 @@
 * Wonderwoman
 * Spiderman
 * Chico bestia
+* Chapulin colorado
+* Capitan Cavernicola
