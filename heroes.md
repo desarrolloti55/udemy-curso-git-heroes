@@ -5,3 +5,4 @@
 * Wonderwoman
 * Spiderman
 * Chico bestia
+* Chapulin colorado
